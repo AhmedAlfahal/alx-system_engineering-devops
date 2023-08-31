@@ -5,6 +5,6 @@ read  mass
 
 git add .
 git commit -m "$mass"
-git push origin main
+git push origin master
 
 echo "Success"
