@@ -1,2 +1,2 @@
 #!/bin/bash
-cat file
+awk NR=3 iacta
